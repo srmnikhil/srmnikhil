@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Mr. Nikhil Sharma.
-- 👀 I’m interested in being a successful Software Engineer.
-- 🌱 I’m currently learning JS.
-- 💞️ Currently i have done HTML and CSS, you can reach to me if there is any opportunity.
-- 📫 How to reach me srmnikhilswn@gmail.com
-- 😄 Fun fact: There is no fun fact about me.
-- Once my mentor said and i'll remember it whole life that is, "Over Engineering is root of all evil."
+- 👨‍🎓 Hi, This is Nikhil Sharma, BCA final year student at Badaun Institute of Management & Technology, Budaun.
+- 💻 I am a Software Engineer currently learnig Development of Web in JavaScript.
+- 📝 Currently Open for FrontEnd Web Development related opportunity and always ready to collaborate on great Ideas.
+- ⚡ Fun fact, I love to binge OTT.
+- 📧 Reach me out srmnikhilswn@gmail.com
+- 👨🏻‍🏫 Once my mentor said and i'll remember it whole life that is, "Over Engineering is root of all evil."
 
 <!---
 srmnikhil/srmnikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
