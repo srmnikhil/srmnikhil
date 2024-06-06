@@ -1,3 +1,5 @@
+<h1>Hello, I am <a href="/">Nikhil Sharma</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 - 👨‍🎓 Hi, This is **Nikhil Sharma**, BCA final year student at Badaun Institute of Management & Technology, Budaun.
 - 💻 I am a **Software Engineer** currently learnig **Development of Web in JavaScript**.
 - 📝 Currently Open for **FrontEnd Web Development** related opportunity and always ready to collaborate on great Ideas.
