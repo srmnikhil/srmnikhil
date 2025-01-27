@@ -1,8 +1,8 @@
 <h1>Hello, This is <a href="">Nikhil Sharma</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 - 👨‍🎓 Hi, This is **Nikhil Sharma**, BCA final year student at Badaun Institute of Management & Technology, Budaun.
-- 💻 I am a **Software Engineer** currently learnig **Development of Web in JavaScript**.
-- 📝 Currently Open for **FrontEnd Web Development** related opportunity and always ready to collaborate on great Ideas.
+- 💻 I am a **Aspiring Software Engineer** specializing in **MERN Stack**, with a good foundation of **JavaScript**.
+- 📝 Open to have an opportunity for an **Internship** and **Full Time Job**.
 - ⚡ Fun fact, I love to binge OTT.
 - 📧 Reach me out srmnikhilswn@gmail.com
 - 👨🏻‍🏫 Once my mentor said and i'll remember it whole life that is, "**Over Engineering is root of all evil.**"
