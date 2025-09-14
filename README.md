@@ -7,6 +7,14 @@
 - 📧 Reach me out srmnikhilswn@gmail.com
 - 👨🏻‍🏫 Once my mentor said and i'll remember it whole life that is, "**Over Engineering is root of all evil.**"
 
+## 🚀 My GitHub Stats
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=srmnikhil.srmnikhil)
+
+![GitHub Followers](https://img.shields.io/github/followers/srmnikhil?label=Follow&style=social)
+
+![Nikhil's Stats](https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=tokyonight)
+
 <!---
 srmnikhil/srmnikhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
