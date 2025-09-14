@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 
-- 📚 **Final Year BCA student** at Badaun Institute of Management & Technology, Budaun
+- 📚 **BCA Graduated** from Badaun Institute of Management & Technology, Budaun
 - 💻 Passionate about **MERN Stack development**, with a strong foundation in **JavaScript**
 - 📝 Actively looking for **Internship & Full-time opportunities**
 - ⚡ Fun fact: I love to binge-watch content on OTT platforms
