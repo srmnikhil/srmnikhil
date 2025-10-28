@@ -37,7 +37,7 @@
 Feel free to connect, collaborate, or just say hello! Let's build something amazing together 🚀
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/srmnikhil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/srmnikhil" target="_blank">
