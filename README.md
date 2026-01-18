@@ -21,11 +21,20 @@
 
 ### 🚀 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" />
+</p>
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=light&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srmnikhil&layout=compact&theme=light&count_private=true)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=light&count_private=true&cache_seconds=1800" 
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmnikhil&layout=compact&theme=light&count_private=true&cache_seconds=1800" 
+    width="49%"
+  />
+</p>
 
 ---
 
