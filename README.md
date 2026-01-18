@@ -22,12 +22,18 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=light" alt="GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmnikhil&layout=compact&theme=light" alt="Most Used Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=light&count_private=true&cache_seconds=1800" 
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmnikhil&layout=compact&theme=light&count_private=true&cache_seconds=1800" 
+    width="49%"
+  />
 </p>
 
 ---
