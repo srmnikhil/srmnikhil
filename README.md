@@ -10,6 +10,7 @@
 
 ### 👨‍🎓 About Me
 
+_ **Software Developer** at **OneVarsity Edtech Pvt Ltd**
 - 📚 **BCA Graduated** from Badaun Institute of Management & Technology, Budaun
 - 💻 Passionate about **MERN Stack development**, with a strong foundation in **JavaScript**
 - 📝 Actively looking for **Internship & Full-time opportunities**
