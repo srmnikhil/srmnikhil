@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Aspiring Software Engineer | MERN Stack Developer | JavaScript Enthusiast</em>
+  <em>Software Engineer | MERN Stack Developer | JavaScript Enthusiast</em>
 </p>
 
 ---
