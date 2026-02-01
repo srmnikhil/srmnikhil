@@ -6,6 +6,10 @@
   <em>Software Engineer | MERN Stack Developer | JavaScript Enthusiast</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" />
+</p>
+
 ---
 
 ### 👨‍🎓 About Me
@@ -17,25 +21,6 @@
 - ⚡ Fun fact: I love to binge-watch content on OTT platforms
 - 📧 Reach me at: [srmnikhilswn@gmail.com](mailto:srmnikhilswn@gmail.com)
 - 👨🏻‍🏫 A mentor once said, "**Over Engineering is the root of all evil**" — a mantra I live by
-
----
-
-### 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srmnikhil&style=flat-square&color=blue" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=srmnikhil&show_icons=true&theme=light&count_private=true&cache_seconds=1800" 
-    width="49%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmnikhil&layout=compact&theme=light&count_private=true&cache_seconds=1800" 
-    width="49%"
-  />
-</p>
 
 ---
 
